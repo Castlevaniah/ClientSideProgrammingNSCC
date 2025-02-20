@@ -3,7 +3,7 @@ studentAge == "20";  // ERROR: Use '=' for assignment, not '=='
 isEnrolled = True;  // ERROR: Use 'true' (lowercase)
 
 document.write("<h2>Student Info</h2>");
-document.write("Name: " + studentName + <br>);  // ERROR: Missing quotes around <br>
+document.write("Name: " + studentName + <br>);  // ERROR: Missing quotes around br
 document.write("Age: " + student_age);  // ERROR: Use 'studentAge' instead of 'student_age'
 document.write("Enrolled: " + isEnrolled); 
 
