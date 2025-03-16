@@ -90,7 +90,7 @@ librarian.shift = "night";// Invalid shift -> logs error message
 librarian.shift = "evening";// Valid shift
 console.log(librarian.shift);// Output: "evening"
 
-// 3️⃣ Create the library Object
+// 3. Create the library Object
 
 //Define an object library with:
 //books (Array) – Stores book objects 
